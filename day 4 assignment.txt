@@ -1,0 +1,22 @@
+1. Timely delivery is crucial in software project management because it promotes customer loyalty and retention. It also helps in improving profitability. Project managers can ensure deadlines are met by setting realistic deadlines, determining the resources needed and taking the capabilities of the members of the team into account.
+
+2. Effective cost control is useful as it helps to mitigate financial risk as well as other risks such as reputation risk. Effective cost control also helps in optimizing resource allocation and project performance.
+
+ Conducting of risk assessments, establishment of effective change management procedures, encouraging open communication among stakeholders and using appropriate project management techniques will help in preventing budget overruns.
+
+3. Waterfall methodology typically involves the customer at the beginning and end of a project while  the customer involved throughout the agile approach. Waterfall methodology is rigid while agile approach is flexible. Agile method involves a short period of time with multiple iterations while waterfall methodology is usually long term.
+	Waterfall models are typically used when all the requirements are clear and fixed, resources are adequately available and the necessary tools or technique are stable not dynamic. Agile models are used when frequent changes are required and the project size is small.
+
+4. Waterfall models are typically used when all the requirements are clear and fixed, resources are adequately available and the necessary tools or technique are stable not dynamic. An example of a water fall model is construction projects Agile models are used when frequent changes are required and the project size is small. An example of an agile project includes the creation of a website or web application. 
+
+5. The methods for ensuring quality assurance throughout a software project include testing the software early, implementing cross browser or device testing, using continuous delivery and continuous integration, creating a risk plan and documenting the project requirements.
+
+ Maintaining high standards is really important as it ensures company's meet up with the required standards, promotes customer loyalty and retention. It also improves revenue generation.
+
+6. Project scope is important as it helps to set realistic goals. It also helps to keep track of the cost and the requirements needed to embark on a project as well as identifying the relevant stakeholders of the project.
+
+  Work breakdown structure (WBS) is a project management technique that involves breaking work into smaller tasks or components. It is very useful as it helps in determining the milestones and provides a visual overview of the project. It helps in estimating the cost of the project as well as assigning responsibilities.
+
+7. A detailed project schedule provides clear goals as well as milestones. It also helps to identify risks and also helps to adjust to unforeseen changes.
+
+  Gantt charts provides a visual schedule of tasks as well as the dates. It helps to keep track of the progress in a project as well of the deadlines in advance. It also helps in cost management and allocation of resources.
